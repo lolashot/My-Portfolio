@@ -5,6 +5,7 @@
     height: 718px;
 /* Neutrals/N0 */
 background: #FFFFFF;
+background: url(./assets/header-background-mobile@2x.svg);
 }
 
 .headerBrand { width: 76px;
@@ -21,7 +22,42 @@ color: #6070FF;
 }
 
 .icon {
-    color:#ACB7C3;
+    color: #6070FF;
     padding-top: 20px;
 }
 
+.overlay {
+    position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Neutrals/N50 */
+
+background: #FFFFFF;
+mix-blend-mode: multiply;
+}
+
+.headline {
+
+    color: #111;
+    font-size: 1.2em;
+    margin-top: 50px;
+    font-weight: 500;
+}
+
+.connect {
+    display: flex;
+    justify-content: left;
+}
+
+h3 {
+    color: #6070FF;
+
+}
+
+.socials {
+    margin-left: 20px;
+    color: #ACB7C3;
+}
