@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    width: 375px;
+    height: 718px;
+/* Neutrals/N0 */
+background: #FFFFFF;
+}
+
+.headerBrand { width: 76px;
+height: 20px;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+/* identical to box height, or 111% */
+align-items: center;
+text-align: center;
+/* Primary/B400 */
+color: #6070FF;
+/* Inside auto layout */
+}
+
+.icon {
+    color:#ACB7C3;
+    padding-top: 20px;
+}
+
