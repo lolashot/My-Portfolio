@@ -1,61 +1,61 @@
 .bg {
-    position:absolute ;
-    margin-top: 50px;
-    z-index: 0;
-    width: 100%;
-    height: auto;
+  position: absolute;
+  margin-top: 50px;
+  z-index: 0;
+  width: 100%;
+  height: auto;
 }
 
-.header{
-    display: flex;
-    justify-content: space-between;
-    width: 375px;
-    height: 718px;
-    background: #FFFFFF;
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 375px;
+  height: 718px;
+  background: #ffffff;
 }
 
 .headerBrand {
-font-weight: 700;
-    font-size: 2em;
-    text-decoration: none;
+  font-weight: 700;
+  font-size: 2em;
+  text-decoration: none;
 }
 
 li {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .icon {
-    color: #6070FF;
-    padding-top: 20px;
+  color: #6070ff;
+  padding-top: 20px;
 }
 .overlay {
-position: absolute;
-left: 0px;
-right: 0px;
-top: 0px;
-bottom: 0px;
-background: #FFFFFF;
-mix-blend-mode: multiply;
+  position: absolute;
+  left: 0px;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #FFFFFF;
+  mix-blend-mode: multiply;
 }
 .headline {
-    color: #111;
-    font-size: 1.5em;
-    margin-top: 50px;
-    font-weight: 500;
-    margin-top: 200px;  
+  color: #111;
+  font-size: 1.5em;
+  margin-top: 50px;
+  font-weight: 500;
+  margin-top: 200px;  
 }
 .connect {
-    display: flex;
-    justify-content: left;
+  display: flex;
+  justify-content: left;
 }
 h3 {
-    color: #6070FF;
+  color: #6070FF;
 }
 .socials {
-    margin-right: 15px;
-    color: #ACB7C3;
+  margin-right: 15px;
+  color: #ACB7C3;
 }
 li {
-    text-decoration: none;
-    list-style-type: none;
+  text-decoration: none;
+  list-style-type: none;
 }
