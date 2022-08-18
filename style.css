@@ -48,7 +48,7 @@ body {
 .headlineTitle {
   width: 90%;
   margin-top: 70px;
-  font-family: 'Poppins';
+  font-family: 'Poppins', Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 40px;
@@ -58,7 +58,7 @@ body {
 
 .headlineText {
   width: 90%;
-  font-family: 'Poppins';
+  font-family: 'Poppins', Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -67,11 +67,11 @@ body {
 }
 
 h3 {
-  font-family: 'Poppins';
+  font-family: 'Poppins', Helvetica, Arial, Verdana, Tahoma, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  color: #7F8Cff;
+  color: #7f8cff;
   margin-top: -10px;
 }
 
