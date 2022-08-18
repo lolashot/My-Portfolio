@@ -3,7 +3,7 @@
 
 My Portfolio
 
-This project is created to show my personal projects
+This project is created to show my personal Portfolio.
 
 
 ## Built With
