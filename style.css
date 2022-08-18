@@ -1,59 +1,91 @@
-.bg {
-  position: absolute;
-  margin-top: 50px;
-  z-index: 0;
-  width: 100%;
-  height: auto;
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  max-width: 375px;
+  background: #fff;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
-  width: 375px;
-  height: 718px;
+  width: 60%;
   background: #fff;
 }
 
 .headerBrand {
-  font-weight: 700;
-  font-size: 2em;
   text-decoration: none;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+color: #6070FF;
 }
 
 .icon {
   color: #6070ff;
-  padding-top: 20px;
 }
 
-.overlay {
+.imgdiv {
+  position: relative;
+  margin: 15px;
+  width: 80%;
+  height: auto;
+}
+
+.bg {
   position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  background: #fff;
-  mix-blend-mode: multiply;
+  width: 100%;
 }
 
-.headline {
-  color: #111;
-  font-size: 1.5em;
+.title {
+  max-width: 90%;
+  margin-top: 25px;
+  padding: 5px;
+  margin-right: 40px;
+}
+
+.headlineTitle {
+  width: 90%;
+  margin-top: 70px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 52px;
+  color: #172b4d;
+}
+
+.headlineText {
+  width: 90%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #344563;
+}
+
+h3 {
+  font-family: 'Poppins';
+  font-style: normal;
   font-weight: 500;
-  margin-top: 200px;
+  font-size: 16px;
+  color: #7F8CFF;
+  margin-top: -10px;
 }
 
 .connect {
   display: flex;
-  justify-content: left;
-}
-
-h3 {
-  color: #6070ff;
+  justify-content: flex-start;
+  margin-left: -40px;
+  margin-bottom: 60px;
 }
 
 .socials {
   margin-right: 15px;
-  color: #acb7c3;
+  color: #505F79;
 }
 
 li {
