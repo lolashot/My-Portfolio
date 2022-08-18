@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 
 body {
   max-width: 375px;
@@ -15,12 +14,12 @@ body {
 
 .headerBrand {
   text-decoration: none;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 18px;
-line-height: 20px;
-color: #6070FF;
+  font-family: 'Poppins', Helvetica, Arial, Verdana, Tahoma, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070ff;
 }
 
 .icon {
@@ -72,7 +71,7 @@ h3 {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  color: #7F8CFF;
+  color: #7F8Cff;
   margin-top: -10px;
 }
 
@@ -85,7 +84,7 @@ h3 {
 
 .socials {
   margin-right: 15px;
-  color: #505F79;
+  color: #505f79;
 }
 
 li {
