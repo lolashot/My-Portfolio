@@ -3,7 +3,8 @@
 
 My Portfolio
 
-This project is created to show my personal projects
+This project is created to show my personal Portfolio 
+and connect me to employers and clients.
 
 
 ## Built With
